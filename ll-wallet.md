@@ -8,6 +8,7 @@ To manage a wallet
 There are at least 2 website wallet managers :
 - https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org
 - https://blockchain.liberland.org
+
 Both managers need that https://polkadot.js.org/extension/ is installed.
 
 
