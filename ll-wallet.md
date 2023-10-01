@@ -1,5 +1,5 @@
 
-To create a wallet : 
+To create a wallet : recommended way is to use the Polkadot browser extension -> https://polkadot.js.org/extension/
 
 To manage a wallet :
 - https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org
