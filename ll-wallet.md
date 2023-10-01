@@ -1,5 +1,5 @@
 
-To create a wallet : https://polkadot.js.org/apps
+To create a wallet : 
 
 To manage a wallet :
 - https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org
