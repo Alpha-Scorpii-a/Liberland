@@ -1,5 +1,5 @@
 Misc notes about Liberland
 --------------------------
-!  Work in progress  !
+<center>!  Work in progress  !</center>
 
 * https://uplib.fr/wiki/Liberland/News News in french - nouvelles en français
