@@ -13,6 +13,7 @@ A lot of wood is used for the settlement.
 Maybe that complementarily to buying wood, Liberlanders could use the existing local wood ?
 
 * https://norwoodsawmills.com/it-it/ 1st prices = ~ 10.000 euros in Italy
+* https://woodmizer.com/store/Shop/Portable-Sawmills/LT15-Portable-Sawmill ~10.000$
 * https://www.youtube.com/watch?v=-6vfq0etuFA wood-mizer
 
 
