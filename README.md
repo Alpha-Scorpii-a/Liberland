@@ -1,4 +1,4 @@
 Misc notes about Liberland
-==========================
+--------------------------
 
-! Work in progress !
+!  Work in progress  !
