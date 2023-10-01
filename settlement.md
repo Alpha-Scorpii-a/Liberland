@@ -10,7 +10,7 @@ Videos
 Mobile sawmill
 --------------
 A lot of wood is used for the settlement.
-Maybe that complementarily to buying wood, we could use the existing local wood ?
+Maybe that complementarily to buying wood, Liberlanders could use the existing local wood ?
 
 * https://norwoodsawmills.com/it-it/ 1st prices = ~ 10.000 euros in Italy
 
