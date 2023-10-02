@@ -1,7 +1,9 @@
 
 To create a wallet
 ------------------
-* recommended way is to use the Polkadot browser extension : https://polkadot.js.org/extension/
+Recommended way is to use the Polkadot browser extension : https://polkadot.js.org/extension/<br>
+The procedure is fully documented here : https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/how-to-create-wallet
+<br>
 
 To manage a wallet
 ------------------
