@@ -15,4 +15,5 @@ Links
 -----
 * https://www.panacomp.net/free-republic-of-liberland/ many pictures
 * https://ark.ll.land/
+* https://www.google.com/maps/place//@45.689023,18.944709,12z?entry=ttu location on google maps
 
