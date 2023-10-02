@@ -6,6 +6,18 @@ Videos
 * https://www.youtube.com/watch?v=ihgT_8F1BX8 14' video of Liberland's 1st settlements just few days before the Croatian police intervention (21.9.2023)
 <br>
 
+
+<!--
+A number of things as to be done before continuing to push the settlement.
+- discuss with HUME
+- have our own private port
+- build a port in Gornja Siga
+-->
+
+
+
+
+<!--
 Mobile sawmill
 --------------
 A lot of wood is used for the settlement.
@@ -14,6 +26,4 @@ Maybe that complementarily to buying wood, Liberlanders could use the existing l
 * https://norwoodsawmills.com/it-it/ 1st prices = ~ 10.000 euros in Italy
 * https://woodmizer.com/store/Shop/Portable-Sawmills/LT15-Portable-Sawmill ~10.000$
 * https://www.youtube.com/watch?v=-6vfq0etuFA wood-mizer
-
-
-
+-->
