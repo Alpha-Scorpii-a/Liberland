@@ -9,7 +9,10 @@ full citizens can also buy one of the huts and move in completely (it was on VIC
 I'm not surprised that people don't know, because the community is more closed and their marketing response is weak  
 (source : comments from https://www.youtube.com/watch?v=mmET68_nA7o)
 
-In 2023, "construction of unique Liberland resort is planned".
+"Construction of unique Liberland resort is planned" (2023)
+
+Links
+-----
 * https://www.panacomp.net/free-republic-of-liberland/ many pictures
 * https://ark.ll.land/
 
