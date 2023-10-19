@@ -1,7 +1,7 @@
 
 https://liberland.chat/  
 
-https://www.youtube.com/watch?v=0XkCRZVPGYc
+https://www.youtube.com/watch?v=Z0sYnLHAVls
 
 
 <br>
