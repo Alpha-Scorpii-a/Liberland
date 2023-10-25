@@ -8,7 +8,17 @@ Just some people simply wearing it.
 A sleeveless jacket, with mention "Liberland Border Police" would be nice.
 We could even put the officer's number in evidence to show them a good example
 and something like "we are here to help you" mention.
-It seems me impossible for them to arrest anybody, or it would be magnificently ridiculous.
+It seems me impossible for them to arrest anybody, or it would be magnificently ridiculous.  
+
+* LL finance / entrepreneurship: https://liberland.chat/finance
+* Wikipedia: https://liberland.chat/wikipedia
+* Stable internet: https://liberland.chat/stable-internet
+* Gun laws: https://liberland.chat/gun-laws
+* LL legal discussions: https://liberland.chat/legal
+* LL software / TLD domain, ITU: https://liberland.chat/tech
+* LL foreign affairs: https://liberland.chat/foreign-affairs
+* LL media/PR: https://liberland.chat/media-pr
+* https://liberland.chat/mapping
 
 
 https://liberland.chat/  
