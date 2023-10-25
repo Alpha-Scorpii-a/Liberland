@@ -24,9 +24,8 @@ Please respect the following rules :
 
 The moderation of the room will be quite strict.
 If you don't respect it
--->
 
-<!-
+
 You may however try to find a buyer or a seller on those forums/groups/rooms :
 * https://liberland.chat/finance the official Liberland Finance signal group
 -->
