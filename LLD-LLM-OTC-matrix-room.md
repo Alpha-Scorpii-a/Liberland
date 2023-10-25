@@ -3,7 +3,7 @@ LLD LLM OTC Matrix Room
 -----------------------
 In october 2023, there is no DEX and no CEX for exchanging Liberland LLD (Liberland Dollars) or LLM (Liberland Merits).   
 For this reason, and because some people may want to find opportunities to exchange their LLDs or LLMs,
-I decided to created a matrix room specifically dedicated to this small market.  
+I decided to create a matrix room specifically dedicated to this small market.  
 <b>This room was not created by the Liberland governement</b>
 
 * https://matrix.to/#/#Liberland-LLD-LLM-OTC-Market:matrix.org Matrix room dedicated to OTC LLD and LLM exchange  
