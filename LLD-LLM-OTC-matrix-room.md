@@ -28,18 +28,31 @@ This is not to annoy people, but is done in order to having high level of confid
 
 <br>
 
+Room topics
+-----------
+* publish offers and demands, concerning only LLDs or LLMs
+* participate to votes, eg concerning invitations
+* propose to invite new participants
+* discuss about invitations
+* the room is strictly about these topics, because there are enough other places to discuss other topics.
+
+Posts non respecting the topics will be removed.  
+<br>
+
 Room rules
 ----------
 Please respect the following rules :
-* respect the topic of the room, ie publish only offers and demands, concerning only LLDs or LLMs
+* respect the topics of the room
 * when doing a transaction, please better do it via private discussions
 * respect the anonymity of other users
 * when a transaction is terminated, edit your offer, and mark it as terminated
 
 The moderation of the room will be quite strict.
-If you don't respect it
+If you don't respect it you'll be banned quite quickly.
 
-
+<!--
 You may however try to find a buyer or a seller on those forums/groups/rooms :
 * https://liberland.chat/finance the official Liberland Finance signal group
+-->
+
 <br>
