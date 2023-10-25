@@ -1,3 +1,5 @@
+<!--
+
 LLD LLM OTC Matrix Room
 -----------------------
 In october 2023, there is no DEX and no CEX for exchanging Liberland LLD (Liberland Dollars) or LLM (Liberland Merits).   
@@ -50,6 +52,7 @@ Please respect the following rules :
 The moderation of the room will be quite strict.
 If you don't respect it you'll be banned quite quickly.
 
+-->
 <!--
 You may however try to find a buyer or a seller on those forums/groups/rooms :
 * https://liberland.chat/finance the official Liberland Finance signal group
