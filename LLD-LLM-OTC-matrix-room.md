@@ -10,6 +10,8 @@ I decided to create a matrix room specifically dedicated to this small market.
 
 Please notice that this room is just about putting sellers and buyers in contact. Nothing more.  
 
+<b>[Caveat_emptor](https://en.wikipedia.org/wiki/Caveat_emptor) ! </b>
+
 <br>
 
 Room rules
