@@ -1,4 +1,4 @@
-
+<!--
 LLD LLM OTC Matrix Room
 -----------------------
 In october 2023, there is no DEX and no CEX for exchanging Liberland LLD (Liberland Dollars) or LLM (Liberland Merits).   
@@ -20,6 +20,11 @@ Please respect the following rules :
 * respect the topic of the room, ie publish only offers and demands, concerning only LLDs or LLMs
 * when doing a transaction, please better do it via private discussions
 * respect the anonymity of other users
+* when a transaction is terminated, edit your offer, and mark it as terminated
+
+The moderation of the room will be quite strict.
+If you don't respect it
+-->
 
 <!-
 You may however try to find a buyer or a seller on those forums/groups/rooms :
