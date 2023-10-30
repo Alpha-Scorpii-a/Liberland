@@ -6,3 +6,10 @@ Liberland is fully a blockchain of it's own.
 
 Being basically based on Polkadot, the basic doc to read are the Polkadot doc.
 
+
+Misc
+----
+* https://github.com/facebook/rocksdb/wiki/Compaction about the kind of pruning done
+
+<br>
+
