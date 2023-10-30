@@ -2,7 +2,9 @@
 To create a Liberland wallet
 ----------------------------
 Recommended way is to use the Polkadot browser extension : https://polkadot.js.org/extension/<br>
-The procedure is fully documented here : https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/how-to-create-wallet<br>
+The procedure is fully documented here : 
+* https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/how-to-create-wallet
+* https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/for-citizens/identity
 <br>
 
 To manage a Liberland wallet
