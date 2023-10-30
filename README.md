@@ -1,7 +1,5 @@
-Misc informations about Liberland
----------------------------------
-
-Informations will concern mainly Liberland's blockchain and its ecosystem.
+Misc informations about Liberland blockchain and its ecosystem
+--------------------------------------------------------------
 
 <br>
 
